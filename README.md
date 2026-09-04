@@ -9,7 +9,6 @@ Temel Python konseptlerini (fonksiyonlar, listeler, döngüler) içeren Terminal
 
 ÖRNEK ÇIKTI:
 
-==============================
      GÖREV TAKİP SİSTEMİ
 ==============================
 1. Görevleri Listele
